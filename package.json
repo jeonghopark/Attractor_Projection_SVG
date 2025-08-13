@@ -1,0 +1,23 @@
+{
+  "name": "Attractor_Projection_SVG",
+  "version": "0.0.1",
+  "private": true,
+  "description": "",
+  "license": "MIT",
+  "author": "jeonghopark",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "clipper2-js": "^1.2.4",
+    "lil-gui": "^0.20.0",
+    "three": "^0.179.1",
+    "three-mesh-bvh": "^0.9.1"
+  },
+  "devDependencies": {
+    "vite": "^7.1.2",
+    "vite-plugin-restart": "^1.0.0",
+    "vite-plugin-static-copy": "^3.1.1"
+  }
+}

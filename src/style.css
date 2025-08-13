@@ -1,0 +1,21 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    overflow: hidden;
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+    background-color: hsl(320 10% 12%);
+/*    background: radial-gradient(circle, hsl(220 40% 22%) 50%, hsl(220 50% 18%) 80%, hsl(230 30% 16%) 90%);*/
+}
